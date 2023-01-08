@@ -1,0 +1,15 @@
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/Sem2_2.csproj.AssemblyReference.cache
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/Sem2_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/Sem2_2.AssemblyInfoInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/Sem2_2.AssemblyInfo.cs
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/Sem2_2.csproj.CoreCompileInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/bin/Debug/net7.0/Sem2_2
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/bin/Debug/net7.0/Sem2_2.deps.json
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/bin/Debug/net7.0/Sem2_2.runtimeconfig.json
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/bin/Debug/net7.0/Sem2_2.dll
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/bin/Debug/net7.0/Sem2_2.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/Sem2_2.dll
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/refint/Sem2_2.dll
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/Sem2_2.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/Sem2_2.genruntimeconfig.cache
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_2/obj/Debug/net7.0/ref/Sem2_2.dll

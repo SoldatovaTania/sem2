@@ -1,0 +1,15 @@
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/bin/Debug/net7.0/Sem2_3
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/bin/Debug/net7.0/Sem2_3.deps.json
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/bin/Debug/net7.0/Sem2_3.runtimeconfig.json
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/bin/Debug/net7.0/Sem2_3.dll
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/bin/Debug/net7.0/Sem2_3.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/Sem2_3.csproj.AssemblyReference.cache
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/Sem2_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/Sem2_3.AssemblyInfoInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/Sem2_3.AssemblyInfo.cs
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/Sem2_3.csproj.CoreCompileInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/Sem2_3.dll
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/refint/Sem2_3.dll
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/Sem2_3.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/Sem2_3.genruntimeconfig.cache
+/Users/tanya/Desktop/Учеба/С#/Sem_2/Sem2_3/obj/Debug/net7.0/ref/Sem2_3.dll
